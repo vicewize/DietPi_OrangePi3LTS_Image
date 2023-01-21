@@ -1,0 +1,6 @@
+Supper slimmed down debian install for use with Klipper 3D printer software. SSH Enabled, headless. 
+Flash to SD card with Balena Etcher or RaspberryPi Imager. 
+Insert SD. 
+Install klipper via Kuiah script.
+Install Crowsnest
+Go!
